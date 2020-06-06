@@ -1,0 +1,1 @@
+et un deuxième fichier php sans code php
